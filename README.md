@@ -1,7 +1,7 @@
 ->MicrosoftAzureInternshipProject
 AzureMicrosoftInternshipProject
 Project Link: [[https://kavalipavankumar.github.io/MicrosoftAzureInternshipProject/index.html](https://jolly-pond-0169d0600.2.azurestaticapps.net/)](https://jolly-pond-0169d0600.2.azurestaticapps.net/)
-Demo Video Link:-
+Demo Video Link:- https://www.youtube.com/watch?v=AqoOwWUAN9U
 
 ->Features and Functionalities:-
 - Interactive and responsive UI.

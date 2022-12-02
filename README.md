@@ -1,6 +1,6 @@
 ->MicrosoftAzureInternshipProject
 AzureMicrosoftInternshipProject
-Project Link: [https://kavalipavankumar.github.io/MicrosoftAzureInternshipProject/index.html](https://jolly-pond-0169d0600.2.azurestaticapps.net/)
+Project Link: [[https://kavalipavankumar.github.io/MicrosoftAzureInternshipProject/index.html](https://jolly-pond-0169d0600.2.azurestaticapps.net/)](https://jolly-pond-0169d0600.2.azurestaticapps.net/)
 Demo Video Link:-
 
 ->Features and Functionalities:-

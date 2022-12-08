@@ -1,8 +1,7 @@
-Medick-Hospital Blog
-- MicrosoftAzureInternshipProject
-AzureMicrosoftInternshipProject
-Project Link: [[https://kavalipavankumar.github.io/MicrosoftAzureInternshipProject/index.html](https://jolly-pond-0169d0600.2.azurestaticapps.net/)](https://jolly-pond-0169d0600.2.azurestaticapps.net/)
-Demo Video Link:- https://www.youtube.com/watch?v=AqoOwWUAN9U
+## Medick-Hospital Blog 
+Azure Microsoft Internship Project
+- Project Link: [[https://kavalipavankumar.github.io/MicrosoftAzureInternshipProject/index.html](https://jolly-pond-0169d0600.2.azurestaticapps.net/)](https://jolly-pond-0169d0600.2.azurestaticapps.net/)
+- Demo Video Link:- https://www.youtube.com/watch?v=AqoOwWUAN9U
 
 ->Features and Functionalities:-
 - Interactive and responsive UI.
@@ -13,8 +12,8 @@ Demo Video Link:- https://www.youtube.com/watch?v=AqoOwWUAN9U
 - Included the feedback Survey form to increase the scope of improvement 
 
 Azure Services Used:-
-1.Azure Health Bot
-2.Static Web Apps
+- Azure Health Bot
+- Static Web Apps
 Home:-
 ![1](https://user-images.githubusercontent.com/119150985/204137698-6c21ccce-0ada-4867-9264-a081649958ea.png)
 

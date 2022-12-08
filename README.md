@@ -14,25 +14,25 @@ Azure Microsoft Internship Project
 Azure Services Used:-
 - Azure Health Bot
 - Static Web Apps
-Home:-
+## Home:-
 ![1](https://user-images.githubusercontent.com/119150985/204137698-6c21ccce-0ada-4867-9264-a081649958ea.png)
 
-Appointment:-
+## Appointment:-
 ![2](https://user-images.githubusercontent.com/119150985/204137794-3dfe9cab-f710-428e-81fe-f269dfddcdc1.png)
 
-Our Advantages:-
+## Our Advantages:-
 ![3](https://user-images.githubusercontent.com/119150985/204137905-477518a8-1d4f-46f9-ae84-382b5cbd7def.png)
 
-Our Team Members:-
+## Our Team Members:-
 ![4](https://user-images.githubusercontent.com/119150985/204137915-cad5dc25-f060-4649-8818-0ab84b2257c6.png)
 
-Department:-
+## Department:-
 ![5](https://user-images.githubusercontent.com/119150985/204137930-ef00caae-2873-42e2-a57f-5978cbd7d0a5.png)
 
-Contact:-
+## Contact:-
 ![6](https://user-images.githubusercontent.com/119150985/204137939-4927e2c4-6ad9-48c0-838d-02c3a661abeb.png)
 
-Details:-
+## Details:-
 ![7](https://user-images.githubusercontent.com/119150985/204137942-16f1600c-5eac-4bb5-b455-ad9228368c44.png)
 
 ## Tech Stack 💻

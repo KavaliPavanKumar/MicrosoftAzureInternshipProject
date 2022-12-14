@@ -3,7 +3,7 @@ Azure Microsoft Internship Project
 - Project Link: [[https://kavalipavankumar.github.io/MicrosoftAzureInternshipProject/index.html](https://jolly-pond-0169d0600.2.azurestaticapps.net/)](https://jolly-pond-0169d0600.2.azurestaticapps.net/)
 - Demo Video Link:- https://www.youtube.com/watch?v=AqoOwWUAN9U
 
->> Features and Functionalities:-
+## Features and Functionalities:-
 - Interactive and responsive UI.
 - Has many graphical and visual innovative effects.
 - Have an aesthetically pleasing visual design and architecture.
@@ -11,7 +11,7 @@ Azure Microsoft Internship Project
 - User can know about health information through this website.
 - Included the feedback Survey form to increase the scope of improvement.
 
-Azure Services Used:-
+## Azure Services Used:-
 - Azure Health Bot
 - Static Web Apps
 ## Home:-
@@ -32,7 +32,7 @@ Azure Services Used:-
 ## Contact:-
 ![6](https://user-images.githubusercontent.com/119150985/204137939-4927e2c4-6ad9-48c0-838d-02c3a661abeb.png)
 
-## Details:-
+## Email Details:-
 ![7](https://user-images.githubusercontent.com/119150985/204137942-16f1600c-5eac-4bb5-b455-ad9228368c44.png)
 
 ## Tech Stack 

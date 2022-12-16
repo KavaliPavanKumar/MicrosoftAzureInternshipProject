@@ -28,7 +28,9 @@ Azure Microsoft Internship Project
 ## Contact Page Details:
 ![9](https://user-images.githubusercontent.com/119150985/208115977-174e569f-2819-4f7a-8efe-59ae007bb9ed.png)
 ## Healthbot Page Details:
+![11](https://user-images.githubusercontent.com/119150985/208119745-08616abe-b12d-441b-ac71-c9bc4060d478.png)
 ![10](https://user-images.githubusercontent.com/119150985/208115991-31bbe313-5483-4250-b703-c75ac5448541.png)
+
 ## Tech Stack 
 
 - [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
